@@ -30,7 +30,3 @@ def print_numbers():
     numbers = [1, 2, 3, 4, 5]
     for number in numbers:
         print(number)
-
-sumar(5,2)
-bucle_for()
-print_numbers()
