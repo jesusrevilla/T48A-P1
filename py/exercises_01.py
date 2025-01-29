@@ -11,7 +11,7 @@ nombre = "Ochoa de León Guillermo"
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
-int matricula = 176635
+matricula = 176635
 
 
 # 2. Crear una función que sume dos números
