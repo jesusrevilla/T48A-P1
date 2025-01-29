@@ -6,12 +6,12 @@
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
 # caracteres del Español.
 # Escribe el código aquí
-
+nombre = "Rodriguez Segura Sebastián"
 
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
-
+matricula = 175596
 
 
 # 2. Crear una función que sume dos números
