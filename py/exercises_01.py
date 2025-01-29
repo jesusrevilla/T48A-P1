@@ -5,13 +5,10 @@
 # orden apellido paterno, apellido materno y nombres, ejemplo: Revilla Silva Jesús Alberto
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
 # caracteres del Español.
-# Escribe el código aquí
+nombre="Saldívar Juárez Pedro Antonio"# Escribe el código aquí
 
-nombre="Saldívar Juárez Pedro Antonio"
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
-# Escribe el código aquí
-
 matricula=174074
 
 # 2. Crear una función que sume dos números
