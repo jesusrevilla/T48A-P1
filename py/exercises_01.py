@@ -26,7 +26,7 @@ def bucle_for():
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
     for n in numbers:
-	      print(n)
+	print(n)
     # Escribe el código aquí
 
 print(sumar(12,3))
