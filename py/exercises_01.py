@@ -7,11 +7,10 @@
 # caracteres del Español.
 # Escribe el código aquí
 
-nombre = "Cerrillo Domínguez César Alejandro"
+nombre = "Cerrillo Dominguez Cesar Alejandro"
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
-
 matricula = 179289
 # 2. Crear una función que sume dos números
 def sumar(a, b):
