@@ -7,16 +7,16 @@
 # caracteres del Español.
 # Escribe el código aquí
 
-
+nombre="Saldívar Juárez Pedro Antonio"
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
 
-
+matricula=174074
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-    pass # reemplaza pass con tu código
+    return a+b
 
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
