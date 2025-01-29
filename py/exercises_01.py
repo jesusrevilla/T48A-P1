@@ -16,8 +16,7 @@
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-    pass # reemplaza pass con tu código
-
+    a+b
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 # reemplaza la palabra reservada pass con tu código
