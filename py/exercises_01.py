@@ -22,10 +22,12 @@ def sumar(a, b):
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
-    pass
+    for i in range(10):
+        print(i+1)
 
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
-    # Escribe el código aquí
+    for number in numbers:
+        print(number)
