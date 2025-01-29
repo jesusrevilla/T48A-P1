@@ -11,21 +11,23 @@
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
-
+matricula = 176635
 
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-    pass # reemplaza pass con tu código
+    return a + b
 
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
-    pass
+    for i in range(10):
+        print(i+1)
 
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
-    # Escribe el código aquí
+    for num in numbers:
+        print(num)
