@@ -6,7 +6,7 @@
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
 # caracteres del Español.
 # Escribe el código aquí
-
+nombre = "Ochoa de León Guillermo"
 
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
