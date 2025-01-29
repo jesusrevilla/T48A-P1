@@ -5,27 +5,32 @@
 # orden apellido paterno, apellido materno y nombres, ejemplo: Revilla Silva Jesús Alberto
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
 # caracteres del Español.
-# Escribe el código aquí
+nombre = 'Romero García María Jaqueline'
 
 
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
-# Escribe el código aquí
+matricula = 173846
 
 #
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-    pass # reemplaza pass con tu código
+    return a+b
+sumar(4, 5)
 
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
-    pass
+    for a in range(1,11):
+        print(a)
+bucle_for()
 
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
-    # Escribe el código aquí
+    for i in numbers:
+        print(i)
+print_numbers()
