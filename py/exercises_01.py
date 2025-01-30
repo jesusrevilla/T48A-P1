@@ -28,5 +28,5 @@ def bucle_for():
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
-    for j in numbers:
-        print(j)
+    for f in numbers:
+        print(f)
