@@ -7,7 +7,7 @@
 # caracteres del Español.
 # Escribe el código aquí
 
-
+nombre = "García Hernández Hugo Armando"
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
