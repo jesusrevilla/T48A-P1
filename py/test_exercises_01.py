@@ -23,7 +23,7 @@ class TestCodigoEstudiantes(unittest.TestCase):
                                'Martínez Hernández Cinthya Alejandra', 'Martínez Monreal Uriel',
                                'Montejano Briano Uriel', 'Ochoa De León Guillermo',
                                'Rodríguez Cardona Carlos Gabriel', 'Rodríguez Segura Sebastián',
-                               'Rodríguez Torres Sebastián', 'Romero García  María  Jaqueline',
+                               'Rodríguez Torres Sebastián', 'Romero García María Jaqueline',
                                'Saldívar Juárez Pedro Antonio', 'Villanueva Infante Jorge Yahir',
                                'Zavala Sanchez Christian Aaron'])
 
