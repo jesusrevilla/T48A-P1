@@ -18,7 +18,7 @@ def sumar(a, b):
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
     for i in range(1, 11):
-      print(i)
+        print(i)
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
