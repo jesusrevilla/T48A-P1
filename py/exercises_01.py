@@ -16,7 +16,7 @@ matricula = 177735
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-    return a+b
+    return a+b #regresa suma
 
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
