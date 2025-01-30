@@ -24,6 +24,7 @@ def sumar(a, b):
 def bucle_for():
   for x in range(1,11):
     print(x)
+      
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
