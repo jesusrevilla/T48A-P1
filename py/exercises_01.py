@@ -5,7 +5,7 @@
 # orden apellido paterno, apellido materno y nombres, ejemplo: Revilla Silva Jesús Alberto
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
 # caracteres del Español.
-nombre = 'Romero García María Jaqueline'
+nombre = 'Romero García  María  Jaqueline'
 
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
