@@ -4,7 +4,7 @@
 # 1. Declarar una variable nombre y asigna tu nombre completo en el siguiente
 # orden apellido paterno, apellido materno y nombres, ejemplo: Revilla Silva Jesús Alberto
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
-# caracteres del Español.
+# caracteres del Español
 # Escribe el código aquí
 nombre="Montejano Briano Uriel"
 
