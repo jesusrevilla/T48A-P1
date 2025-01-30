@@ -14,20 +14,15 @@ nombre = "Cerrillo Domínguez César Alejandro"
 matricula = 179289
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-	return a + b
+    return a + b
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
-	for i in range (1,11):
-		print(i)
+    for i in range (1,11):
+        print(i)
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
-	numbers = [1, 2, 3, 4, 5]
-	for n in numbers:
-		print(n)
-    # Escribe el código aquí
-
-print(sumar(12,3))
-bucle_for()
-print_numbers()
+    numbers = [1, 2, 3, 4, 5]
+    for n in numbers:
+        print(n)
