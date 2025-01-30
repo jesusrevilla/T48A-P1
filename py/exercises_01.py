@@ -15,7 +15,6 @@ matricula = 173846
 # 2. Crear una función que sume dos números
 def sumar(a, b):
     return a+b
-sumar(4, 5)
 
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
@@ -23,7 +22,6 @@ sumar(4, 5)
 def bucle_for():
     for a in range(1,11):
         print(a)
-bucle_for()
 
 
 # 5. Usar un bucle para imprimir cada número
@@ -31,4 +29,3 @@ def print_numbers():
     numbers = [1, 2, 3, 4, 5]
     for i in numbers:
         print(i)
-print_numbers()
