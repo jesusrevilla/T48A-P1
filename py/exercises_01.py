@@ -16,12 +16,12 @@ matricula = 179598
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-    a+b
+    return a+b
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
-    for i in range (1,10):
+    for i in range (1,11):
         print (i)
 
 
