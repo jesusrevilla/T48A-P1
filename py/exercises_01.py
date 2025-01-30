@@ -8,11 +8,9 @@
 nombre = 'Romero García María Jaqueline'
 
 
-
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 matricula = 173846
 
-#
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
