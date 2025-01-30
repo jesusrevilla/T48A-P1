@@ -1,6 +1,7 @@
 # Ejercicio 1: Completar las líneas de código
 # Instrucciones: Completa las líneas de código faltantes para que el programa funcione correctamente.
 
+
 # 1. Declarar una variable nombre y asigna tu nombre completo en el siguiente
 # orden apellido paterno, apellido materno y nombres, ejemplo: Revilla Silva Jesús Alberto
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
@@ -8,9 +9,11 @@
 # Escribe el código aquí
 nombre = "Zavala Sanchez Christian Aaron"
 
+
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 # Escribe el código aquí
 matricula = 171817
+
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
