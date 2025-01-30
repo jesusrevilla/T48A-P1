@@ -1,3 +1,8 @@
+# Ejercicio 1: Completar las líneas de código
+# Instrucciones: Completa las líneas de código faltantes para que el programa funcione correctamente.
+
+# 1. Declarar una variable nombre y asigna tu nombre completo en el siguiente
+# orden apellido paterno, apellido materno y nombres, ejemplo: Revilla Silva Jesús Alberto
 # comienza cada nombre con mayúscuala y el resto con minúsculas incluye acentos y otros
 # caracteres del Español.
 # Escribe el código aquí
